@@ -1,0 +1,37 @@
+<div style="text-align: justify;">
+<pre class="tw-data-text tw-text-large tw-ta" dir="ltr">&nbsp;</pre>
+<hr style="border-color: #c71585;" />
+<div style="text-align: center;" align="Right">
+<table style="height: 70px; width: 395px; border-collapse: collapse;">
+<tbody>
+<tr style="height: 10px;">
+<td style="width: 5.15625px; height: 10px;">&nbsp;</td>
+<td style="height: 60px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; width: 168.188px;" rowspan="6"><img src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/photo_others_employees/natalia_hr.jpg?raw=true" width="159" height="150" /></td>
+<td style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; width: 213.656px; height: 10px;" colspan="2"><img style="float: left;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/logo/logo1.png?raw=true" width="231" height="73" /></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 5.15625px; height: 50px;" rowspan="5">&nbsp;</td>
+<td style="width: 213.656px; height: 10px; text-align: left; padding: 0px 0px 0px 8px;" colspan="2"><span style="font-size: 10pt;">З повагою,</span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 213.656px; height: 10px; text-align: left; padding: 0px 0px 0px 8px;" colspan="2"><span style="font-size: 10pt;">Директор з персоналу (HRD) </span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 213.656px; height: 10px; text-align: left; padding-left: 8px;" colspan="2"><span style="font-size: 10pt;">Наталя Хороших!</span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 213.656px; height: 10px; text-align: left; padding: 0px 0px 0px 8px;" colspan="2"><span style="font-size: 10pt;">+38(<span>095) 235-09-09</span></span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 213.656px; height: 10px; text-align: left; padding: 0px 0px 0px 8px;" colspan="2"><span style="font-size: 10pt;">vakansia@dmprint.com.ua</span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 366px; height: 0px; padding: 4px 30px 0px 8px; text-align: justify;" colspan="4"><span style="font-size: 10pt;">Слідкуйте за нами в соціальних мережах, та залишайте Ваші відгуки! Будемо дуже вдячні!</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="text-align: left; width: 393px; height: 10px; padding: 0px;" colspan="4"><a href="https://msng.link/o/?380952350909=vi"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/viber.jpg?raw=true" width="50" height="50" hspace="0" /></a> <a href="https://goo.gl/maps/xRPWwhQtGd3gCiTD6"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/location.jpg?raw=true" width="50" height="50" hspace="0" /></a> <a href="mailto:vakansia@dmprint.com.ua"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/post.jpg?raw=true" width="50" height="50" hspace="0" /></a> <a href="https://www.facebook.com/dmprint.com.ua/about"> <img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/facebook.jpg?raw=true" width="50" height="50" hspace="0" /></a> <a href="https://www.instagram.com/dmprint.com.ua"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/instagram.jpg?raw=true" width="50" height="50" hspace="0" /></a> <a href="https://t.me/+380952350909"> <img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/telegram.jpg?raw=true" width="50" height="50" hspace="0" /></a> <a href="https://www.youtube.com/@user-hy7jz7of3f"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/youtube.jpg?raw=true" width="50" height="50" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>

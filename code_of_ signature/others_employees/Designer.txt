@@ -1,0 +1,37 @@
+<div style="text-align: justify;"><hr style="border-color: #c71585;" /><span style="font-size: 10pt;"><strong><span style="color: #c71585;">&nbsp;ВАЖЛИВО!!!</span>&nbsp;</strong>Погоджуючи макет до друку, Вы берете на себе відповідальність за зміст, орфографію та пунктуацію &nbsp;в дизайн-макеті, незалежно від того, чи Ви надали макет, чи його розробляв наш дизайнер. Вичитування тексту, перевірка орфографії та пунктуації це окрема послуга коректора, яку Ви можете замовити додатково. В розробку оригінала дизайн-макету вона не входить. Дана домовленість є усною офертою між Вами (Замовником) і нами (Виконавцем).</span>
+<pre class="tw-data-text tw-text-large tw-ta" dir="ltr"><a href="https://dmprint.com.ua/vymohy_do_maketiv">Вимоги до макетів</a></pre>
+<hr style="border-color: #c71585;" />
+<div style="text-align: left;" align="Right">
+<table style="border-collapse: collapse; height: 122px; width: 438.25px;">
+<tbody>
+<tr style="height: 84px;">
+<td style="width: 4.92188px; height: 10px;">&nbsp;</td>
+<td style="width: 165.016px; height: 76px; padding: 0px 0px 0px 10px;" colspan="2" rowspan="6"><img src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/photo_others_employees/%D0%90stra_designer.jpg?raw=true" width="165" height="155" /></td>
+<td style="width: 252.312px; height: 10px; padding: 7px 0px 0px;"><img style="float: left;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/logo/logo1.png?raw=true" width="231" height="73" /></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 4.92188px; height: 66px;" rowspan="5">&nbsp;</td>
+<td style="height: 10px; width: 250.312px; text-align: left; text-indent: 8px;"><span style="font-size: 10pt;">З повагою,&nbsp;</span></td>
+</tr>
+<tr style="height: 11px;">
+<td style="width: 250.312px; text-align: left; height: 21px; text-indent: 8px;"><span style="font-size: 10pt;">креатив дизайнер</span></td>
+</tr>
+<tr style="height: 0px;">
+<td style="height: 10px; width: 250.312px; text-align: left; text-indent: 8px;"><span style="font-size: 10pt;">Астра Литвиненко!</span></td>
+</tr>
+<tr style="height: 15px;">
+<td style="width: 250.312px; text-align: left; text-indent: 8px; height: 15px;"><span style="font-size: 10pt;">art@dmprint.com.ua</span></td>
+</tr>
+<tr style="height: 11px;">
+<td style="width: 250.312px; height: 10px; text-align: left; text-indent: 8px;">&nbsp;</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 397.25px; height: 36px; padding: 3px 20px 3px 19px; text-align: left;" colspan="4"><span style="font-size: 10pt;">Слідкуйте за нами в соціальних мережах, та залишайте Ваші відгуки! Будемо дуже вдячні!</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 429.25px; height: 10px; padding: 0px 0px 0px 7px; text-align: left;" colspan="4"><span style="font-size: 10pt;"><a href="https://goo.gl/maps/xRPWwhQtGd3gCiTD6"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/location.jpg?raw=true" width="50" height="50" hspace="7" /></a>&nbsp; &nbsp; &nbsp;<a href="mailto:art@dmprint.com.ua"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/post.jpg?raw=true" width="50" height="50" hspace="7" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/dmprint.com.ua/about"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/facebook.jpg?raw=true" width="50" height="50" hspace="7" /></a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/dmprint.com.ua"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/instagram.jpg?raw=true" width="50" height="50" hspace="7" /></a>&nbsp; &nbsp; &nbsp;&nbsp;<a href="https://www.youtube.com/@user-hy7jz7of3f"><img style="border-radius: 50px;" src="https://github.com/Dominanta-admin/signature-of-letters/blob/main/icon/youtube.jpg?raw=true" width="50" height="50" /></a></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>

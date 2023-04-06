@@ -1,0 +1,50 @@
+hr style=border-color #c71585; 
+div style=text-align justify; padding 4px 13px;strongspan style=color #c71585;&nbsp;span style=font-size 10pt;Увага!!!spanspanstrongspan style=font-size 10pt;strong Відвантаження товару здійснюється тільки при наявності оригіналу довіреності&nbsp;або за умови підписання уповноваженою особою видаткових документів (Акта прийому-передачі або Видаткової накладної) та скріплення їх печаткою.strongspandiv
+div style=text-align justify;&nbsp;div
+div style=text-align justify; padding 4px 13px;span style=color #c71585;strongspan style=font-size 10pt;Адреса для листування spanstrongspandiv
+div style=padding 4px 12px; text-align justify;span style=font-size 10pt;strongТОВ ДОМІНАНТА ПРІНТ  ПП ДОМІНАНТА ТЕКСТИЛЬ strongspandiv
+div style=text-align justify;span style=font-size 10pt; padding 4px 13px;strongас 7558, м. Дніпро 49008 strongspandiv
+div style=text-align justify;&nbsp;div
+div style=text-align justify;span style=font-size 10pt; padding 4px 13px;strongТОВ ДОМІНАНТА ПРІНТstrongspandiv
+div style=text-align justify;span style=font-size 10pt; padding 4px 13px;strongspanЄДРПОУ 39198883spanstrongspandiv
+div style=text-align justify;span style=font-size 10pt; padding 4px 13px;strongНова Пошта, відділення №31strongspandiv
+div style=text-align justify;span style=font-size 10pt; padding 4px 13px;strongм. Дніпро, 0675624771 strongspandiv
+div style=text-align justify;&nbsp;div
+div style=padding 4px 13px; text-align justify;span style=font-size 10pt;strongПрохання з усіх питань щодо замовлення та прорахунку звертатися до менеджерів нашої компанії.strongspandiv
+div style=padding-left 12px; text-align justify;span style=font-size 10pt; a title=перейти за посиланням href=httpsdmprint.com.uaПерейти на сайтaspandiv
+div style=padding-left 12px; text-align justify;span style=font-size 10pt;strongМи хочемо бути ефективними для Вас та Вашого бізнесу!strongspandiv
+hr style=border-color #c71585; 
+div style=text-align left; align=Right
+table style=height 147px; width 288px; border-collapse collapse;
+tbody
+tr style=height 84px;
+td style=width 300px; height 10px; padding 7px 0px 0px;img style=float left; src=httpsgithub.comDominanta-adminsignature-of-lettersblobmainlogologo1.pngraw=true width=300 height=94 td
+tr
+tr style=height 10px;
+td style=height 17px; width 274px; padding 4px 13px; text-align justify;span style=font-size 10pt;З повагою, фінансовий відділ, сектор бухгалтерського облікуspantd
+tr
+tr style=height 10px;
+td style=width 292px; text-align left; height 10px; padding 0px 0px 0px 8px;&nbsp;td
+tr
+tr style=height 1px;
+td style=width 298px; text-indent 12px; height 18px; text-align left;span style=font-size 10pt;+38(span066)&nbsp;spanspan class=space-before380-spanspan class=space-before14-spanspan class=space-before33spanspantd
+tr
+tr style=height 18px; text-align left;
+td style=width 298px; text-indent 12px; height 18px;span style=font-size 10pt;+38(span063)&nbsp;spanspan class=space-before920-spanspan class=space-before68-spanspan class=space-before47spanspantd
+tr
+tr style=height 10px;
+td style=width 298px; text-indent 12px; height 10px; text-align left;span style=font-size 10pt;doc@dmprint.com.uaspantd
+tr
+tr style=height 11px;
+td style=width 274px; height 10px; text-align left; padding 4px 13px;
+div style=text-align justify; align=Rightspan style=font-size 10pt;Слідкуйте за нами в соціальних мережах, та залишайте Ваші відгуки! Будемо дуже вдячні!spandiv
+td
+tr
+tr style=height 54px;
+td style=width 298px; text-align left; height 54px;
+div style=text-align justify; align=Rightspan style=font-size 10pt;a href=httpsgoo.glmapsxRPWwhQtGd3gCiTD6img style=border-radius 50px; src=httpsgithub.comDominanta-adminsignature-of-lettersblobmainiconlocation.jpgraw=true width=50 height=50 hspace=4 aa href=mailtoadmin@dmprint.com.uaimg style=border-radius 50px; src=httpsgithub.comDominanta-adminsignature-of-lettersblobmainiconpost.jpgraw=true width=50 height=50 hspace=5 aa href=httpswww.facebook.comdmprint.com.uaaboutimg style=border-radius 50px; src=httpsgithub.comDominanta-adminsignature-of-lettersblobmainiconfacebook.jpgraw=true width=50 height=50 hspace=5 aa href=httpswww.instagram.comdmprint.com.uaimg style=border-radius 50px; src=httpsgithub.comDominanta-adminsignature-of-lettersblobmainiconinstagram.jpgraw=true width=50 height=50 hspace=5 aa href=httpswww.youtube.com@user-hy7jz7of3fimg style=border-radius 50px; src=httpsgithub.comDominanta-adminsignature-of-lettersblobmainiconyoutube.jpgraw=true width=50 height=50 aspandiv
+td
+tr
+tbody
+table
+div
